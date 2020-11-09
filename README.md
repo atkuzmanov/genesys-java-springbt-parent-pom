@@ -65,8 +65,6 @@ The project comes incorporating or pre-configured to be compatible with the foll
 - [Apache Maven](https://maven.apache.org/index.html)
     - [Apache Maven Enforcer plugin](https://maven.apache.org/enforcer/maven-enforcer-plugin/)
 - [Apache Tomcat](http://tomcat.apache.org/)
-- [Design Patterns](https://www.oodesign.com/)
-    - [Builder Design Pattern](https://www.oodesign.com/builder-pattern.html)
 
 **Note:** For the relevant versions, please see the [POM file](pom.xml).
 
