@@ -7,7 +7,19 @@
 
 ---
 
-## Description
+<!-- TOC -->
+
+- [GeneSys](#genesys)
+  - [DESCRIPTION](#description)
+  - [SETUP](#setup)
+  - [TODOs, WIP & FUTURE DEVELOPMENT](#todos-wip--future-development)
+- [LICENSE](#license)
+- [CONSTRUCTIVE FEEDBACK AND CONTRIBUTIONS TO THE PROJECT ARE WELCOME](#constructive-feedback-and-contributions-to-the-project-are-welcome)
+- [REFERENCES](#references)
+
+<!-- /TOC -->
+
+## DESCRIPTION
 
 This is a `POM` file designed to be a `PARENT POM` in a `Java`, `Spring Boot`, `Maven` and `Maven Enforcer Plugin` environment.
 
