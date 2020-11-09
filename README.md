@@ -13,9 +13,9 @@
   - [DESCRIPTION](#description)
   - [SETUP](#setup)
   - [TODOs, WIP & FUTURE DEVELOPMENT](#todos-wip--future-development)
-- [LICENSE](#license)
-- [CONSTRUCTIVE FEEDBACK AND CONTRIBUTIONS TO THE PROJECT ARE WELCOME](#constructive-feedback-and-contributions-to-the-project-are-welcome)
-- [REFERENCES](#references)
+  - [LICENSE](#license)
+  - [CONSTRUCTIVE FEEDBACK AND CONTRIBUTIONS TO THE PROJECT ARE WELCOME](#constructive-feedback-and-contributions-to-the-project-are-welcome)
+  - [REFERENCES](#references)
 
 <!-- /TOC -->
 
@@ -112,19 +112,19 @@ mvn spring-boot:run
 
 ---
 
-# LICENSE
+## LICENSE
 
 [GPL-3.0 License](LICENSE.md)
 
 ---
 
-# CONSTRUCTIVE FEEDBACK AND CONTRIBUTIONS TO THE PROJECT ARE WELCOME
+## CONSTRUCTIVE FEEDBACK AND CONTRIBUTIONS TO THE PROJECT ARE WELCOME
 
 [Contact](https://github.com/atkuzmanov)
 
 ---
 
-# REFERENCES
+## REFERENCES
 
 > <https://spring.io/>
 >
