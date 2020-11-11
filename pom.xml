@@ -34,6 +34,7 @@
         <logstash-logback-encoder.version>6.4</logstash-logback-encoder.version>
         <java-uuid-generator.version>4.0</java-uuid-generator.version>
         <commons-io.version>2.5</commons-io.version>
+        <mysql-connector-java.version>8.0.21</mysql-connector-java.version>
         <!-- Plugins -->
         <maven.version>3.5.4</maven.version>
         <maven-enforcer-plugin.version>3.0.0-M3</maven-enforcer-plugin.version>
@@ -160,7 +161,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <scope>runtime</scope>
+            <version>${mysql-connector-java.version}</version>
         </dependency>
         <dependency>
             <groupId>commons-io</groupId>

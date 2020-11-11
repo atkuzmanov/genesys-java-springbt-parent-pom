@@ -3,7 +3,6 @@
 ![GeneSys Logo v1.0](GeneSys_Logo_v1.5%20Big%20Dark.png)
 
 **```"Genesis + System = GeneSys"```**
-\- atkuzmanov
 
 ---
 
@@ -65,6 +64,8 @@ The project comes incorporating or pre-configured to be compatible with the foll
 - [Apache Maven](https://maven.apache.org/index.html)
     - [Apache Maven Enforcer plugin](https://maven.apache.org/enforcer/maven-enforcer-plugin/)
 - [Apache Tomcat](http://tomcat.apache.org/)
+- [Docker](https://www.docker.com/)
+    - [Docker-compose](https://docs.docker.com/compose/)
 
 **Note:** For the relevant versions, please see the [POM file](pom.xml).
 
