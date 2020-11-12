@@ -66,6 +66,9 @@ The project comes incorporating or pre-configured to be compatible with the foll
 - [Apache Tomcat](http://tomcat.apache.org/)
 - [Docker](https://www.docker.com/)
     - [Docker-compose](https://docs.docker.com/compose/)
+- [Lombok](https://www.projectlombok.org/)
+- [Google Guava](https://github.com/google/guava)
+- [Google Guice](https://github.com/google/guice)
 
 **Note:** For the relevant versions, please see the [POM file](pom.xml).
 
